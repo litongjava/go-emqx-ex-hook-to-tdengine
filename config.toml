@@ -1,0 +1,5 @@
+serverAddress= "0.0.0.0:9000"
+tdDriverName ="taosSql"
+tdDataSourceName= "root:root123@tcp(192.168.3.9:6030)/test"
+createSql= "create.sql"
+insertSql= "insert.sql"
